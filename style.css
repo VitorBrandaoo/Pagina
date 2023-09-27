@@ -1,0 +1,11 @@
+header{background-color: purple;
+text-align: center;
+height: 100px;
+padding-top:20px ;}
+
+main{background-color: aqua;
+width: 800px;
+margin: auto;}
+
+footer{background-color: blue;
+text-align: center;}
